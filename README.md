@@ -1,69 +1,55 @@
-<div align="center">
+<img src="assets/banner.svg" alt="Ashish Gautam - AI and Systems Engineer" width="100%" />
 
-# Ashish Gautam
+## Hi There!
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&height=42&lines=AI+%26+Systems+Engineer;Optimizing+Low-Latency+ML+Inference;Transformer+World+Models+%26+Explainability;Distributed+Backends+%7C+FastAPI%2C+Redis%2C+Celery">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=1200&color=0969DA&center=true&vCenter=true&width=560&height=42&lines=AI+%26+Systems+Engineer;Optimizing+Low-Latency+ML+Inference;Transformer+World+Models+%26+Explainability;Distributed+Backends+%7C+FastAPI%2C+Redis%2C+Celery" alt="Typing animation">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2600&pause=1200&color=58A6FF&width=560&height=36&lines=AI+%26+Systems+Engineer;Optimizing+Low-Latency+ML+Inference;Transformer+World+Models+%26+Explainability;Distributed+Backends+%7C+FastAPI%2C+Redis%2C+Celery">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2600&pause=1200&color=0969DA&width=560&height=36&lines=AI+%26+Systems+Engineer;Optimizing+Low-Latency+ML+Inference;Transformer+World+Models+%26+Explainability;Distributed+Backends+%7C+FastAPI%2C+Redis%2C+Celery" alt="Typing animation">
 </picture>
 
-<p>
-AI and systems engineer building scalable machine learning infrastructure, model optimization pipelines, and high-throughput backend services.
-</p>
+I'm Ashish, an AI and Systems Engineer with a focus on machine learning infrastructure and distributed backends.
+- Specializing in low-latency inference, model quantization, and containerized architectures
+- Building high-throughput backend services, asynchronous queues, and automated data pipelines
+- Winner of ISRO's Quantum Frontiers Award at the Smart India Hackathon 2025
 
-<p>
-  <a href="https://linkedin.com/in/ashishgautamx">LinkedIn</a> &nbsp;&bull;&nbsp;
-  <a href="https://github.com/AshishGautamX">GitHub</a>
-</p>
+## Projects
 
-</div>
-
----
-
-### Featured Projects
-
-| Project | Description | Stack | Live Demo |
+| Repository | Link | Description | Awards / Highlights |
 | :--- | :--- | :--- | :--- |
-| **[PacketSentinel](https://packetsentinel.streamlit.app/)** | Temporal intrusion detection engine using a 3.28M-param Transformer world model over raw PCAP network streams. Achieved 92.41% Macro-F1 at 0.56% FPR (17.7x false-alarm reduction). | PyTorch, Transformers, Captum, Streamlit | [Launch Demo](https://packetsentinel.streamlit.app/) |
-| **[Mulyankan AI](https://mulyankanai.netlify.app/)** | Distributed AI grading platform backend evaluating 9+ curriculum tiers with OCR parsing, schema validation, and asynchronous batch job execution. | FastAPI, PostgreSQL, Redis, Celery, Next.js | [Launch Demo](https://mulyankanai.netlify.app/) |
+| [PacketSentinel](https://github.com/AshishGautamX) | [Website](https://packetsentinel.streamlit.app/) | Transformer world model for temporal network intrusion detection | 92.41% Macro-F1, 17.7x false-alarm cut |
+| [Mulyankan AI](https://github.com/AshishGautamX) | [Website](https://mulyankanai.netlify.app/) | Distributed AI grading platform backend with OCR parsing & Celery job queues | National Finalist (Top 20), NHIDE Hackathon |
+| Quantum-Secure Architecture | [ISRO Recognition](https://github.com/AshishGautamX) | Quantum-secure communication and defense systems | National Winner (ISRO Award), SIH 2025 |
 
-#### Architectural Deep Dives
+## Experience
 
-- **[PacketSentinel](https://packetsentinel.streamlit.app/)**
-  - Forecasts temporal network states via K-step autoregressive rollouts over a 91-feature PCAP streaming pipeline.
-  - Mitigated 80%+ class imbalance with Focal Loss and effective-number weighting, generalizing to CIC-IoT-2023 at 99.83% Macro-F1 without structural modifications.
-  - Serves real-time inference at 16,190 windows/sec on NVIDIA L4 GPUs with integrated Captum feature attributions and MITRE ATT&CK mapping.
+| Position | Company | Field | Work Period |
+| :--- | :--- | :--- | :--- |
+| **AI Developer** | **Thesisly** | **Backend AI Systems & Model Optimization** | **2025-09 — Present** |
+| Web Development Intern | Adcuesta | Operations Dashboards & REST APIs | 2025-12 — Present |
 
-- **[Mulyankan AI](https://mulyankanai.netlify.app/)**
-  - Architected decoupled REST APIs handling high-throughput batch grading and automated rubric evaluations.
-  - Implemented Redis and Celery worker pools for distributed task queues, retry logic, and real-time status polling.
-  - Integrated OCR ingestion pipelines across heterogeneous student submission formats, saving educators 3–5 hours per week.
+## Education
 
----
+- B.Tech in Computer Science and Engineering @ Guru Ghasidas University (2023 - 2027)
 
-### Industry Experience
+## Technologies I Use
 
-- **AI Developer** &mdash; Thesisly *(Sept. 2025 – Present)*
-  - Optimized and containerized backend AI inference systems for 1,000+ active users, cutting model latency by 40% via quantization and Docker environments.
-  - Improved model accuracy by 15% through hyperparameter tuning and automated end-to-end Git CI/CD pipelines reaching 95% test coverage.
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+![](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-- **Web Development Intern** &mdash; Adcuesta *(Dec. 2025 – Present)*
-  - Shipped production operations dashboards with Next.js, React, and TypeScript across 12 screens and 17+ REST API integrations.
-  - Optimized SQL reporting queries across centralized KPI layers, reducing manual reporting workloads by 60–80%.
+## Socials
 
----
-
-### Honours & Recognition
-
-- **National Winner, Smart India Hackathon** &mdash; Awarded ISRO's Quantum Frontiers Award among 15,000+ participants for developing quantum-secure systems.
-- **National Finalist, NHIDE Hackathon** &mdash; Ranked top 20 nationally for architecting and deploying Mulyankan AI.
-
----
-
-### Technical Proficiencies
-
-- **Languages:** Python, SQL, C/C++, JavaScript, TypeScript
-- **Machine Learning & AI:** PyTorch, Transformers, Model Quantization, Captum, Streamlit
-- **Backend & Distributed Systems:** FastAPI, Django, Flask, Node.js, Express.js, Celery, Redis
-- **Databases & Storage:** PostgreSQL, MySQL, MongoDB, Supabase
-- **DevOps & Infrastructure:** Docker, AWS, Git, GitHub Actions, CI/CD Pipelines, REST APIs
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashishgautamx)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AshishGautamX)
