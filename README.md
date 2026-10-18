@@ -10,7 +10,7 @@
 I'm Ashish, an AI and Systems Engineer with a focus on machine learning infrastructure and distributed backends.
 - Specializing in low-latency inference, model quantization, and containerized architectures
 - Building high-throughput backend services, asynchronous queues, and automated data pipelines
-- Winner of ISRO's Quantum Frontiers Award at the Smart India Hackathon 2025
+- Winner of [ISRO's Quantum Frontiers Award](https://lnkd.in/p/dbRMBmAm) at the Smart India Hackathon 2025
 
 ## Projects
 
@@ -18,7 +18,7 @@ I'm Ashish, an AI and Systems Engineer with a focus on machine learning infrastr
 | :--- | :--- | :--- | :--- |
 | [PacketSentinel](https://github.com/AshishGautamX) | [Website](https://packetsentinel.streamlit.app/) | Transformer world model for temporal network intrusion detection | 92.41% Macro-F1, 17.7x false-alarm cut |
 | [Mulyankan AI](https://github.com/AshishGautamX) | [Website](https://mulyankanai.netlify.app/) | Distributed AI grading platform backend with OCR parsing & Celery job queues | National Finalist (Top 20), NHIDE Hackathon |
-| Quantum-Secure Architecture | [ISRO Recognition](https://github.com/AshishGautamX) | Quantum-secure communication and defense systems | National Winner (ISRO Award), SIH 2025 |
+| Quantum-Secure Architecture | [ISRO Recognition](https://lnkd.in/p/dbRMBmAm) | Quantum-secure communication and defense systems | National Winner (ISRO Award), SIH 2025 |
 
 ## Experience
 
