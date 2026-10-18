@@ -29,7 +29,7 @@ I'm Ashish, an AI and Systems Engineer with a focus on machine learning infrastr
 
 ## Education
 
-- B.Tech in Computer Science and Engineering @ Guru Ghasidas University (2023 - 2027)
+- B.Tech in Computer Science and Engineering @ Guru Ghasidas Vishwavidyalaya (2023 - 2027)
 
 ## Technologies I Use
 
